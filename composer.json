@@ -1,0 +1,15 @@
+{
+    "name": "k4zzk/google-analytics-ranking",
+    "description": "Google Analytics Ranking",
+    "keywords": ["k4zzk"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "k4zzk",
+            "email": "kosuke19952000@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
