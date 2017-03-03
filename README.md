@@ -21,3 +21,9 @@ $ composer install
 ```bash
 $ php -S localhost:8000 -t public
 ```
+
+
+補足:
+-----
+
+`service-account.json`の内容は廃止済みです。
